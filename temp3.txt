@@ -1,1 +1,2 @@
 this is is text for three
+this is added for commit 3
