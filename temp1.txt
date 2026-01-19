@@ -3,3 +3,4 @@ this is added for commit two
 I will override this
 I wont let your code systain 
 Merge conflict is handled
+This is added after commiting on github without merger conflict
